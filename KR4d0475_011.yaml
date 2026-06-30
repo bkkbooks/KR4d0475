@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0475/krp/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 霞外詩集跋虛中錢塘族也少時慕陶貞白為人師碩翁著道士服隱於西湖之濱嘗畫桑乾龍門二圖流傳海內不見者輒以為恨既從禇雪巘游肆力吟事風致酷似中州諸名家伯雨之後復有虛中何錢塘多隱君耶海虞毛晋識
+  hash: sha256:65b8f7bc62b4b8bcee60f93c67bccec59cc5f26201d9bdd8c5b1f022a8c66315
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0475_WYG_011-1a, image: WYG1204/WYG1204-0169c.png}
+metadata:
+  title: 霞外詩集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:11:10.429459'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4d0475/KR4d0475_011.txt
+hash: sha256:df3dbfd88dc7472eed3135666a66b15ae0c0f6591380450e7285f9f181ced4f3
