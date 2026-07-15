@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 霞外詩集䟦虚中錢塘族也少時慕陶貞白為人師碩翁著道士服隠於西湖之濱嘗畫桒乾龍門二圖流傳海内不見者輒以為恨既從禇雪巘游肆力吟事風致酷似中州諸名家伯雨之後復有虚中何錢塘多隠君耶海虞毛晋識
-  hash: sha256:2d38fe4020032394acf218958623369b74dc128e52cdda6811a443e2b5ff9c4d
+  text: 霞外詩集跋虛中錢塘族也少時慕陶貞白為人師碩翁著道士服隱於西湖之濱嘗畫桑乾龍門二圖流傳海內不見者輒以為恨既從禇雪巘遊肆力吟事風致酷似中州諸名家伯雨之後復有虛中何錢塘多隱君耶海虞毛晉識
+  hash: sha256:aabe6eff23b4557dd0247dc77482fb641ca29c92445eb1254a60cfd97dd64002
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0475_WYG_011-1a, image: WYG1204/WYG1204-0169c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0475/KR4d0475_011.txt
-hash: sha256:cc0ef27ad55b3b3db9bf0158b48a66dbc65a1c146c5c799b0e51774d95549b07
+hash: sha256:b58ba0b8bee65e7a2f6e6966c159a478f42d2a756e6541e0d7ac19b65cccd851
